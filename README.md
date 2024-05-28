@@ -2,5 +2,4 @@
 
 ##list of recipes
 
--Pizza
--Cheese cake
+-[Cheese cake recipe](cheese_cake_recipe.md)
